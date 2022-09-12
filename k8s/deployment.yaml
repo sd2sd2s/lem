@@ -23,11 +23,11 @@ spec:
         - name: ProxySite
           value: "mirror.umd.edu"
         - name: Vless_UUID
-          value: "f8bfb621-6728-4a6c-ae69-2106cd3d7c8a"
+          value: "23a5deb0-e652-4813-852b-58e981a729d2"
         - name: Vless_Path
           value: "/vl555"
         - name: Vmess_UUID
-          value: "f8bfb621-6728-4a6c-ae69-2106cd3d7c8a"
+          value: "23a5deb0-e652-4813-852b-58e981a729d2"
         - name: Vmess_Path
           value: "/vm666"
         - name: Share_Path
